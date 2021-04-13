@@ -50,3 +50,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Visual Studio cahce 
+/.vs/
