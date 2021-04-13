@@ -4,15 +4,32 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Weapon
-  - PlayerUI
-  - AutoCrouch
-  - LadderTrigger
   - Action
+  - AutoCrouch
+  - Ragdoll
   - Ignore Ragdoll
-  - Collectable
+  - Boss
+  - Enemy
+  - CompanionAI
+  - Weapon
   - LookAt
-  - BackgroundCamera
+  - Dirt
+  - Wood
+  - Metal
+  - Concrete
+  - Glass
+  - Water
+  - LadderTrigger
+  - ExitWater
+  - Barrel
+  - FreeClimb
+  - ClimbDirection
+  - Zipline
+  - PlayerUI
+  - Collectable
+  - CoverPoint
+  - Interactable
+  - AIAction
   layers:
   - Default
   - TransparentFX
@@ -22,15 +39,15 @@ TagManager:
   - UI
   - 
   - 
-  - NavMesh
-  - BackgroundImage
-  - DistantHotspot
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - StopMove
+  - Action
+  - HeadTrack
+  - BodyPart
+  - BlockAIRayCast
   - 
   - 
   - 
