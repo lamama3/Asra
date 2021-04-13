@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Weapon
+  - PlayerUI
+  - AutoCrouch
+  - LadderTrigger
+  - Action
+  - Ignore Ragdoll
+  - Collectable
+  - LookAt
+  - BackgroundCamera
   layers:
   - Default
   - TransparentFX
@@ -13,9 +22,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - NavMesh
+  - BackgroundImage
+  - DistantHotspot
   - 
   - 
   - 
